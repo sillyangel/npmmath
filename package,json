@@ -1,0 +1,26 @@
+{
+  "name": "@sillyangel/math",
+  "version": "0.1.1",
+  "description": "math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sillyangel/math.git"
+  },
+  "keywords": [
+    "Bananajs"
+  ],
+  "author": {
+    "name": "sillyangel",
+    "email": "support@banana-corp.tk",
+    "url": "https://sillyangel.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sillyangel/math/issues"
+  },
+  "homepage": "https://github.com/sillyangel/math"
+}
